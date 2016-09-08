@@ -1,0 +1,9 @@
+2016-09-08 22:31:15,580 - [INFO] - from play in pool-6-thread-2 
+Listening for HTTP on /0:0:0:0:0:0:0:0:3000
+
+2016-09-08 22:31:42,661 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://127.0.0.1:3306/uk_postal_codes
+
+2016-09-08 22:31:42,878 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
